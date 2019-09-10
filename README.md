@@ -10,5 +10,5 @@
 * "styled-components"
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hTTYFhm4o48wCwtIgC/giphy.gif">
+  <img src="https://media.giphy.com/media/dyMCAZmLNDkLRcrLpT/giphy.gif">
 </p>
